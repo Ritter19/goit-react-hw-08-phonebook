@@ -74,6 +74,7 @@
   font-size: 1rem;
   color: #166534;
   margin-top: 0.5rem;
+  justify-content: center;
 }
 
 /* Contacts section */
@@ -88,6 +89,7 @@
   font-weight: 700;
   color: #064e3b;
   margin: 0;
+  text-align: center;
 }
 
 /* Smooth transitions for all inputs and buttons */
